@@ -57,13 +57,7 @@ This project was built to practice **frontend development skills** and create a 
 
 ## 🌐 Live Demo
 
-You can deploy this project using:
-
-* GitHub Pages
-* Netlify
-* Vercel
-
----
+https://sprightly-mochi-bcae8d.netlify.app/
 
 ## ⚙️ How to Use
 
